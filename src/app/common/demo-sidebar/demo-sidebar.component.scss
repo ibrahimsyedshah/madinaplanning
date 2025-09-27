@@ -1,4 +1,5 @@
 .demo-modal-panel {
+    display: none;
     transform: translateY(-40%);
     position: fixed;
     z-index: 99998;
@@ -37,6 +38,7 @@
     }
 }
 .sidebar-demo-modal {
+    display: none;
     top: 0;
     right: 0;
     opacity: 0;

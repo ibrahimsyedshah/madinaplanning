@@ -13,7 +13,7 @@ import { FooterComponent } from './common/footer/footer.component';
 })
 export class AppComponent {
 
-    title = 'Xavro - Angular 18 Multipurpose Landing Page Template';
+    title = 'Madine Planning';
 
     constructor(
         public router: Router,

@@ -16,7 +16,7 @@ import { HomeThirteenComponent } from './home-thirteen/home-thirteen.component';
 import { NotFoundComponent } from './common/not-found/not-found.component';
 
 export const routes: Routes = [
-    {path: '', component: HomeOneComponent},
+    {path: '', component: HomeTwelveComponent},
     {path: 'home-two', component: HomeTwoComponent},
     {path: 'home-three', component: HomeThreeComponent},
     {path: 'home-four', component: HomeFourComponent},
